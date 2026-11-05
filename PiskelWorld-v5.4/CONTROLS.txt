@@ -1,0 +1,7 @@
+PISKEL WORLD v3.7 CONTROLS
+Tap/click a block: mine exactly once.
+Hold and drag with ONE finger or left mouse button: pan the camera smoothly and quickly.
+Holding without moving does NOT mine.
+Laptop two-finger trackpad scrolling also pans.
+Diagonal dragging is supported.
+No WASD or arrow keys.

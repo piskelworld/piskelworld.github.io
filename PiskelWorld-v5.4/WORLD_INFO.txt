@@ -1,0 +1,21 @@
+PISKEL WORLD v3.1
+
+World: 225 blocks wide (100 left, 25 original centre, 100 right), 100 rows initially and unlimited downward generation.
+Biomes: Normal, Autumn, Snowy; horizontal biome segments randomly 14–23 columns.
+Trees: 3 leaves across + 1 above, oak trunks 3–4 blocks.
+Autumn decorations: pumpkin and haybale each about 5% chance per eligible autumn surface column.
+Mining: click/tap or hold; lighting, caves, ores, TNT, sounds retained from v3.0.
+
+Files:
+Blocks/ — original and biome PNG textures
+Scripts/ — generation/rendering, mining, audio
+Sounds/ — categorized MP3 sounds
+index.html — launch page
+
+v3.2: Smooth scrolling in whole-block increments. Wheel/trackpad steps, diagonal trackpad movement, arrow/WASD diagonal keys, Shift+wheel horizontal. Fixed-position canvas prevents scrolling it off screen.
+
+Version 3.4: Horizontal generation extends 100 columns in either direction as needed; biome spans are 75-100 blocks.
+
+Version 3.5: Two-finger touch camera panning; single finger reserved for mining. Trackpad two-finger wheel camera panning.
+
+LIGHTING REVISION: Original 1/2/3/4/5+ light-distance steps restored (0/25/50/75/100% darkness). Surface grass, trees, and above-ground decorations are always fully visible.
